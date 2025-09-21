@@ -15,6 +15,9 @@
   </properties>
 
   <dependencies>
+ </dependency>
+     <!-- https://mvnrepogftsitory.com/artiftfact/com.mysql/mysql-connector-j -->
+    <dependency>
 </dependency>
      <!-- https://mvnrepositoryd.com/artifactasd/com.mysql/mysqleefg-connector-j -->
     <dependency>
