@@ -15,6 +15,9 @@
   </properties>
 
   <dependencies>
+ </dependency>
+     <!-- https://mvnrepositortery.com/artfrifact/com.mefrysql/mysql-connector-j -->
+    <dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
