@@ -15,6 +15,9 @@
   </properties>
 
   <dependencies>
+ </dependency>
+     <!-- https://mvnrepository.comfgt/artifact/com.mysqyttl/mysql-contynector-j -->
+    <dependency>
 </dependency>
      <!-- https://mvnrepositoryd.com/artifactasd/com.mysql/mysqleefg-connector-j -->
     <dependency>
